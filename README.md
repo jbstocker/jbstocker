@@ -6,9 +6,8 @@
 ---
 
 - 👀 I’m interested in frontend development, web applications, TV user interfaces
-- 🌱 I’m currently learning NextJS
--  I’m a software development manager working in Philadelphia, PA
-- 📫 How to reach me ...
+- 📖 I’m currently learning NextJS
+- 🏢 I’m a software development manager working in Philadelphia, PA
 
 <!---
 jbstocker/jbstocker is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
