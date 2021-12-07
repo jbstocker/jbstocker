@@ -1,7 +1,13 @@
-- 👋 Hi, I’m @jbstocker
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
+<h3 align="center">👋 Hi there! I'm Jason Stocker</h3>
+<p align="center">
+  <a href="https://www.jasonstocker.com">Website</a>
+</p>
+
+---
+
+- 👀 I’m interested in frontend development, web applications, TV user interfaces
+- 🌱 I’m currently learning NextJS
+-  I’m a software development manager working in Philadelphia, PA
 - 📫 How to reach me ...
 
 <!---
