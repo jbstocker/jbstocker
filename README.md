@@ -8,7 +8,7 @@
 - 🏢 I’m a software development manager working in Philadelphia, PA
 - 💻 I’m interested in frontend development, web applications, TV user interfaces
 - 📖 I’m currently learning Next.js
-- 📷 I love photography and currently use a Fujifilm X100F and a Canon 7d
+- 📷 I love photography and currently use a Fujifilm X100F and a Sony A7IV
 - 🪚 I'm an avid DIY'er and enjoy woodworking in the garage
 
 <!---
